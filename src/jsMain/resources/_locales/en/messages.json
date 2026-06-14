@@ -1,0 +1,82 @@
+{
+  "appName": {
+    "message": "ReTabs",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "ReTabs",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "This is a chrome extension for quickly reopening recently closed tabs or windows.",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "ReTabs",
+    "description": "The title of the browser action button"
+  },
+  "recentlyClosedWindowsAndTabs": {
+    "message": "Recently closed windows and tabs",
+    "description": ""
+  },
+  "openInNewWindow": {
+    "message": "Open in new window",
+    "description": ""
+  },
+  "history": {
+    "message": "History",
+    "description": ""
+  },
+  "showMore": {
+    "message": "Show more...",
+    "description": ""
+  },
+  "showLess": {
+    "message": "Show less...",
+    "description": ""
+  },
+  "moreHistory": {
+    "message": "More history...",
+    "description": ""
+  },
+  "settings": {
+    "message": "Settings",
+    "description": ""
+  },
+  "search": {
+    "message": "Search",
+    "description": ""
+  },
+  "searchHistory": {
+    "message": "Search history",
+    "description": ""
+  },
+  "visitCount": {
+    "message": "Visit count",
+    "description": ""
+  },
+  "delete": {
+    "message": "Delete",
+    "description": ""
+  },
+  "copyLink": {
+    "message": "Copy link",
+    "description": ""
+  },
+  "chromeHistory": {
+    "message": "Chrome History",
+    "description": ""
+  },
+  "options": {
+    "message": "Options",
+    "description": ""
+  },
+  "session": {
+    "message": "Session",
+    "description": ""
+  },
+  "disablePopup": {
+    "message": "Disable Popup",
+    "description": ""
+  }
+}
